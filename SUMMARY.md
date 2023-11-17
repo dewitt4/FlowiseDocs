@@ -3,7 +3,7 @@
 * [Welcome to Flowise](README.md)
 * [Getting Started](getting-started/README.md)
 * [Contributing](CONTRIBUTING.md)
-* [Tutorial Videos](videos/SUMMARY.md)
+* [Tutorial Videos](videos/readme.md)
 * [Authorization](authorization/README.md)
   * [Setting username & password](authorization/setting-username-and-password.md)
 * [Cache](cache/README.md)
